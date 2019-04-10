@@ -1,2 +1,1 @@
-maven ear example
-=====================
+# restaurante_javaee
